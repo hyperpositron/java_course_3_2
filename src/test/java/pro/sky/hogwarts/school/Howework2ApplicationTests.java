@@ -1,4 +1,4 @@
-package pro.sky.howework_2;
+package pro.sky.hogwarts.school;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
