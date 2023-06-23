@@ -2,12 +2,8 @@ package pro.sky.hogwarts.school.service;
 
 import org.springframework.stereotype.Service;
 import pro.sky.hogwarts.school.model.Faculty;
-import pro.sky.hogwarts.school.repository.FacultyRepository;
 
 import java.util.Collection;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.stream.Collectors;
 
 @Service
 public class FacultyService {
